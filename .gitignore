@@ -1,6 +1,4 @@
-"bfg.jar" 
-"bfg.jar" 
-"poo/srcBancoCom1Teste/__MACOSX/src/banco/Oracle_JDK-22/lib/modules" 
-"*.jar" 
-"poo/srcBancoCom1Teste/__MACOSX/src/banco/Oracle_JDK-22/lib/modules" 
-"poo/" 
+bfg.jar
+*.jar
+poo/
+poo/srcBancoCom1Teste/__MACOSX/src/banco/Oracle_JDK-22/lib/modules
